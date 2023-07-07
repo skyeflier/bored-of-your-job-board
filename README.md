@@ -7,6 +7,21 @@ The Board of your Job Board app is a platform that enables users to view job pos
 The homepage displays existing jobs, including the post title, requirements, salary, and date created. Users can create a new job post by clicking on the "create new post" button, which prompts them to enter both a title and contents for the job. Once the title and contents are saved, the user is taken back to an updated dashboard with their new post. Users can also manage their job postings by accessing the dashboard, which displays any job posts they have already created and allows them to create new ones.
 
 Overall, the Board of your Job Board app provides a simple and easy-to-use interface for users to view and manage job postings, making it a valuable tool for job seekers and employers alike.
+
+Technologies we used:
+- "bcrypt": "^5.1.0"
+- "colors": "^1.4.0"
+-  "connect-session-sequelize": "^7.1.5"
+-  "dotenv": "^16.0.3"
+-  "express": "^4.18.2"
+-  "express-handlebars": "^7.0.2",
+-  "express-session": "^1.17.3"
+-  "inquirer": "^8.2.4"
+-  "mysql2": "^3.2.0"
+-  "nodemon": "^2.0.22"
+-  "sequelize": "^6.29.3"
+-  "moment": "^2.29.4"
+
 ***
 ## Challenges we faced include: 
 - Getting the routes to go to the right places
